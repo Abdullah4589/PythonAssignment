@@ -8,7 +8,7 @@ print("Sum of", num1, "and", num2, "is:", sum_result)
 '''Q2-Create a variable called message and give it a string value. Append the string " World!" to it and print the updated message. Explore basic string operations in Python.'''
 
 message1 = input("Message: ")
-message2 = input("Message: ")
+message2 = "World!"
 message=message1+message2
 print(message)
 
